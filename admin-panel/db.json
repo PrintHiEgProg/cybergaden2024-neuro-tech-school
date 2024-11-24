@@ -1,0 +1,332 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Иван",
+      "surname": "Иванов",
+      "patronymic": "Иванович",
+      "heart_rate": 88,
+      "stress_index": 137
+    },
+    {
+      "id": 2,
+      "name": "Петр",
+      "surname": "Петров",
+      "patronymic": "Петрович",
+      "heart_rate": 62,
+      "stress_index": 327
+    },
+    {
+      "id": 3,
+      "name": "Влад",
+      "surname": "Голосной",
+      "patronymic": "Сергеевич",
+      "heart_rate": 76,
+      "stress_index": 171
+    },
+    {
+      "id": 4,
+      "name": "Егор",
+      "surname": "Кобзев",
+      "patronymic": "Михайлович",
+      "heart_rate": 75,
+      "stress_index": 283
+    },
+    {
+      "id": 5,
+      "name": "Игорь",
+      "surname": "Копкин",
+      "patronymic": "Михайлович",
+      "heart_rate": 80,
+      "stress_index": 100
+    },
+    {
+      "id": 6,
+      "name": "Соня",
+      "surname": "Чатджипитиева",
+      "patronymic": "",
+      "heart_rate": 97,
+      "stress_index": 51
+    },
+    {
+      "id": 7,
+      "name": "Дамир",
+      "surname": "Ровный",
+      "patronymic": "Пацан",
+      "heart_rate": 76,
+      "stress_index": 315
+    },
+    {
+      "id": 8,
+      "name": "Гор",
+      "surname": "Оганесян",
+      "patronymic": "",
+      "heart_rate": 61,
+      "stress_index": 175
+    },
+    {
+      "id": 9,
+      "name": "Алексей",
+      "surname": "Смирнов",
+      "patronymic": "Алексеевич",
+      "heart_rate": 81,
+      "stress_index": 390
+    },
+    {
+      "id": 10,
+      "name": "Мария",
+      "surname": "Сидорова",
+      "patronymic": "Ивановна",
+      "heart_rate": 74,
+      "stress_index": 430
+    },
+    {
+      "id": 11,
+      "name": "Анна",
+      "surname": "Кузнецова",
+      "patronymic": "Петровна",
+      "heart_rate": 74,
+      "stress_index": 354
+    },
+    {
+      "id": 12,
+      "name": "Дмитрий",
+      "surname": "Новиков",
+      "patronymic": "Сергеевич",
+      "heart_rate": 70,
+      "stress_index": 279
+    },
+    {
+      "id": 13,
+      "name": "Ольга",
+      "surname": "Морозова",
+      "patronymic": "Андреевна",
+      "heart_rate": 62,
+      "stress_index": 208
+    },
+    {
+      "id": 14,
+      "name": "Сергей",
+      "surname": "Васильев",
+      "patronymic": "Иванович",
+      "heart_rate": 85,
+      "stress_index": 193
+    },
+    {
+      "id": 15,
+      "name": "Елена",
+      "surname": "Павлова",
+      "patronymic": "Дмитриевна",
+      "heart_rate": 68,
+      "stress_index": 221
+    },
+    {
+      "id": 16,
+      "name": "Михаил",
+      "surname": "Соколов",
+      "patronymic": "Александрович",
+      "heart_rate": 92,
+      "stress_index": 153
+    },
+    {
+      "id": 17,
+      "name": "Наталья",
+      "surname": "Лебедева",
+      "patronymic": "Николаевна",
+      "heart_rate": 87,
+      "stress_index": 470
+    },
+    {
+      "id": 18,
+      "name": "Андрей",
+      "surname": "Козлов",
+      "patronymic": "Владимирович",
+      "heart_rate": 78,
+      "stress_index": 135
+    },
+    {
+      "id": 19,
+      "name": "Татьяна",
+      "surname": "Ильина",
+      "patronymic": "Сергеевна",
+      "heart_rate": 94,
+      "stress_index": 416
+    },
+    {
+      "id": 20,
+      "name": "Владимир",
+      "surname": "Григорьев",
+      "patronymic": "Иванович",
+      "heart_rate": 86,
+      "stress_index": 240
+    },
+    {
+      "id": 21,
+      "name": "Юлия",
+      "surname": "Федорова",
+      "patronymic": "Алексеевна",
+      "heart_rate": 88,
+      "stress_index": 257
+    },
+    {
+      "id": 22,
+      "name": "Николай",
+      "surname": "Семёнов",
+      "patronymic": "Петрович",
+      "heart_rate": 66,
+      "stress_index": 266
+    },
+    {
+      "id": 23,
+      "name": "Екатерина",
+      "surname": "Егорова",
+      "patronymic": "Дмитриевна",
+      "heart_rate": 97,
+      "stress_index": 482
+    },
+    {
+      "id": 24,
+      "name": "Павел",
+      "surname": "Белов",
+      "patronymic": "Сергеевич",
+      "heart_rate": 91,
+      "stress_index": 315
+    },
+    {
+      "id": 25,
+      "name": "Оксана",
+      "surname": "Дмитриева",
+      "patronymic": "Ивановна",
+      "heart_rate": 76,
+      "stress_index": 54
+    },
+    {
+      "id": 26,
+      "name": "Артем",
+      "surname": "Ковалев",
+      "patronymic": "Алексеевич",
+      "heart_rate": 94,
+      "stress_index": 261
+    },
+    {
+      "id": 27,
+      "name": "Людмила",
+      "surname": "Беляева",
+      "patronymic": "Петровна",
+      "heart_rate": 75,
+      "stress_index": 132
+    },
+    {
+      "id": 28,
+      "name": "Георгий",
+      "surname": "Гусев",
+      "patronymic": "Иванович",
+      "heart_rate": 78,
+      "stress_index": 306
+    },
+    {
+      "id": 29,
+      "name": "Ирина",
+      "surname": "Борисова",
+      "patronymic": "Сергеевна",
+      "heart_rate": 71,
+      "stress_index": 230
+    },
+    {
+      "id": 30,
+      "name": "Константин",
+      "surname": "Жуков",
+      "patronymic": "Дмитриевич",
+      "heart_rate": 60,
+      "stress_index": 335
+    },
+    {
+      "id": 31,
+      "name": "Светлана",
+      "surname": "Филиппова",
+      "patronymic": "Андреевна",
+      "heart_rate": 65,
+      "stress_index": 234
+    },
+    {
+      "id": 32,
+      "name": "Роман",
+      "surname": "Марков",
+      "patronymic": "Иванович",
+      "heart_rate": 62,
+      "stress_index": 151
+    },
+    {
+      "id": 33,
+      "name": "Анастасия",
+      "surname": "Андреева",
+      "patronymic": "Петровна",
+      "heart_rate": 66,
+      "stress_index": 80
+    },
+    {
+      "id": 34,
+      "name": "Денис",
+      "surname": "Николаев",
+      "patronymic": "Сергеевич",
+      "heart_rate": 93,
+      "stress_index": 175
+    },
+    {
+      "id": 35,
+      "name": "Карина",
+      "surname": "Тимофеева",
+      "patronymic": "Ивановна",
+      "heart_rate": 65,
+      "stress_index": 204
+    },
+    {
+      "id": 36,
+      "name": "Виктор",
+      "surname": "Орлов",
+      "patronymic": "Алексеевич",
+      "heart_rate": 72,
+      "stress_index": 294
+    },
+    {
+      "id": 37,
+      "name": "Марина",
+      "surname": "Киселева",
+      "patronymic": "Дмитриевна",
+      "heart_rate": 67,
+      "stress_index": 394
+    },
+    {
+      "id": 38,
+      "name": "Геннадий",
+      "surname": "Макаров",
+      "patronymic": "Петрович",
+      "heart_rate": 98,
+      "stress_index": 173
+    },
+    {
+      "id": 39,
+      "name": "Антон",
+      "surname": "Носов",
+      "patronymic": "Иванович",
+      "heart_rate": 84,
+      "stress_index": 177
+    },
+    {
+      "id": 40,
+      "name": "Евгения",
+      "surname": "Афанасьева",
+      "patronymic": "Сергеевна",
+      "heart_rate": 86,
+      "stress_index": 90
+    },
+    {
+      "id": 41,
+      "name": "Борис",
+      "surname": "Федотов",
+      "patronymic": "Андреевич",
+      "heart_rate": 95,
+      "stress_index": 420
+    }
+  ]
+}
